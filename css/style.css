@@ -99,7 +99,7 @@ h3 {
 }
 .hero {
     height: 450px;
-    background-image: url(/img/hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-size: cover;
     background-position: top left;
     height: 450px;
